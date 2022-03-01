@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>At Haly-Rude-House, the seventeenth day of January, 1678. Forasmuch, as a considerable number of brewers for themselves, and in behalf of the remanent brewers within the town of Edinburgh, and the shires of Edinburgh and Haddingtoun, has proposed and desired, that they may be allowed to sell the ale and drinking-beer for this present year, at twenty pennies the pynt ...</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1678</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05360</idno>
+            <idno type="STC">Wing S1493A</idno>
+            <idno type="STC">ESTC R183052</idno>
+            <idno type="EEBO-CITATION">52612254</idno>
+            <idno type="OCLC">ocm 52612254</idno>
+            <idno type="VID">179557</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05360)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179557)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2793:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>At Haly-Rude-House, the seventeenth day of January, 1678. Forasmuch, as a considerable number of brewers for themselves, and in behalf of the remanent brewers within the town of Edinburgh, and the shires of Edinburgh and Haddingtoun, has proposed and desired, that they may be allowed to sell the ale and drinking-beer for this present year, at twenty pennies the pynt ...</title>
+                  <author>Scotland. Privy Council.</author>
+                  <author>Gibson, Alexander, Sir, d. 1693.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson, Printer to his most sacred Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>Anno Dom.0 1678.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Royal arms at head of text; initial letter.</note>
+                  <note>Signed at end: Al. Gibson. Cl. Sti. Concilii.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Brewing industry --  Law and legislation --  Scotland --  Early works to 1800.</term>
+               <term>Beer --  Prices --  Law and legislation --  Scotland --  Early works to 1800.</term>
+               <term>Brewers --  Scotland --  Edinburgh --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:179557:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <opener>
+               <dateline>At <hi>Haly-rude-houſe,</hi> 
+                  <date>the ſeventee<g ref="char:cmbAbbrStroke">̄</g>nth day of <hi>January,</hi> 1678.</date>
+               </dateline>
+            </opener>
+            <p>
+               <seg rend="decorInit">F</seg>Oraſmuch, as a conſiderable number of Brewers for themſelves, and in behalf of the remanent Brewers within the Town of <hi>Edin<g ref="char:EOLhyphen"/>burgh,</hi> and the Shires of <hi>Edinburgh</hi> and <hi>Haddingtoun,</hi> have propoſed and deſired, that they may be allowed to ſell the Ale and Drink<g ref="char:EOLhyphen"/>ing-beer for this preſent year, at twenty pennies the pynt, with the addition of the Exciſe and Impoſition granted in behalf of the Town of <hi>Edinburgh:</hi> And ſeeing, according to the proportion ſetled by the late Act of Parliament, and Proclamations, for regu<g ref="char:EOLhyphen"/>lating the prices of Ale and Drinking-beer, when the Ale and Drinking-beer is ſold at twentie pennies the pynt, with the addition foreſaid, the Bear ought to be eight pounds ſcots the boll. And the ſaids Brewers have propoſed, that in regard they have ſome old Victual upon their hand not yet conſumed, ſo that for this year they cannot come the whole length of eitht pounds, which is the Rule and Standard ap<g ref="char:EOLhyphen"/>pointed by the Proclamation; and therefore deſiring the Council might diſpenſe therewith ſo far, as that they may be able to brew with ſome ſmall advantage: and ſeeing the ſaids Brewers have conſented that the price of the boll of good and ſufficient rough Bear, ſhall be ſeven pounds ſcots money, for all rough Beer that is to be browen and made in Malt of the Cropt 1677. laſt by paſt; And it being moſt juſt and reaſonable, <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat all Brewers, great and ſmall, ſhould be in an equal and like condition, as to the price of the drink to be ſold by them, and the price of the Bear of which the ſame is made; which cannot be practicable, if they ſhould be permitted to buy Bear at different prices; in reſpect, theſe who buy Bear below the foreſaid price, may under-ſell theſe that do buy the bear at the ſame, and ſo may inhance and engroſs to themſelves the trade and benefit of brewing, to the prejudice and ruine of others; and for preventing the inconvenience and prejudice foreſaid, It is thought neceſſary, and is propoſed and deſired by the ſaids brewers, that the ſaid price ſhould be ſetled as a juſt and uniform price to be payed for this year by all Brewers and Malt men, who ſhall buy Bear for brewing or making of Malt within the ſaid Town and Shires, and that of their own conſent they ſhould be obliged, and grant Bonds to the effect foreſaid. And becauſe divers perſons, who ſell and tap Wine, or are Cooks or Stablers, do brew; and upon occaſion of their Trades and Employments foreſaids, do tap and ſell Ale and Drinking beer, browen by themſelves, whereby they may ſell their drink with greater advantage <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>han other Brewers, that muſt ſhare and divide betwixt them and the Tapſters, the benefit that the ſaids perſons will have intirely to themſelves, and ſo may underſell the other brewers to their prejudice and ruine: and whereas, notwithſtanding of the ſaid Proclamation, the ſmal<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er brewers, whoſe <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urvey rolls were under two bolls, have not given bond to the Commiſſioners of Exciſe of the ſaid Shire to that effect, and obtained licence betwixt and the day therein appointed, and ſo have forfeited the beneſit of brewing. The Lords of His Majeſties Privy Council, in proſecution of the ſaid Act of Parliament and Proclamations foreſaids, do hereby diſcharge any perſon or perſons, brewers great or ſmall within the burgh of <hi>Edin<g ref="char:EOLhyphen"/>burgh, Leith</hi> and <hi>Cannongate,</hi> or ſuburbs thereof, or within the ſaids Shires of <hi>Edinburgh</hi> or <hi>Haddingtoun,</hi> to take upon them upon pretext of any former licence granted to them, or upon any other pretext or ground whatſoever, to brew any Ale or Drinking-beer, untill they firſt ſubſcribe the ſaid bond; and upon ſubſcribing thereof, obtain a licence for that effect from the Lords of His Majeſties Privy Council, or Committee appointed by them, which perſons, ſubſcribing the ſaid bond, and receiving licence as aforeſaid, are hereby allowed, not only to brew ſingle Ale at the price of twentie pennies the pynt, with the addition as aforeſaid, but alſo to brew double or three ſhilling Ale: provided that they who brew the double Ale, ſhal be obliged alſo to brew the ſingle Ale, in which caſe, the ſaids Lords have in ſo far diſpenſed with the ſaid Proclamation in the behalf of the ſaids Brewers upon the conſiderations foreſaids, untill the 1. day of <hi>Auguſt</hi> next to come, in this inſtant year, 1678 And whereas Malt-men and others, who take upon them to make Malt within the ſaids bounds do exact far greater rates, betwixt the price of the boll of Bear, and the boll of Malt, than what is allowed by the ancient Laws made in that behalf; The ſaids Lords do hereby diſcharge any perſon whatſomever within the ſaids bounds to make Malt, untill they find caution acted in the Books of Council, that they ſhall buy the Bear at the price foreſaid for this preſent year: and that they ſhal take no more but half a Merk be<g ref="char:EOLhyphen"/>twixt the boll of Bear and the boll of Malt, conform to the Acts of Parliament, and obtain licence for that effect as aforeſaid, as they will be anſwerable on their perill. And in regard, that divers perſons within the City of <hi>Edinburgh, Leith, Cannongate, Abby, Caldtoun, Craigend, Yeard-heads, New-haven, Pleaſants,</hi> and <hi>St. Ninians-raw,</hi> who are Vintners of Wine, Cooks or Stablers, do both brew, and tap and ſell Ale and Drinking-beer browen by themſelves, whereby they may ſell their drink with greater advantage then other Brewers, and ſo may underſell the other brewers to their great hurt and prejudice; The ſaids Lords do hereby diſcharge any Vintners of Wine, Cooks or Stablers in the ſaids bounds, to vent or retail any Ale or Drink<g ref="char:EOLhyphen"/>ing-beer, or if they continue in retailing, to quite their brewing as they will be anſwerable at their perill. And whereas both Brewers, Vintners and the Leidges ſuſtain great dammage by the unequal meaſure of barrels, ſome being above meaſure, and ſome under, occaſioned chiefly by the neglect and fault of Coupers: The ſaids Lords do hereby ordain all Coupers that makes any brewers casks, to make their casks no bigger, than with the ad<g ref="char:EOLhyphen"/>dition of a chopin to each Gallon: Ordaining every Couper to put his own mark upon his own work, that the contraveeners may be known; and that all casks already made, be juſted and made equal, betwixt and the firſt day of <hi>May</hi> next, as the ſaids Coupers and Brewers will be anſwerable at their perill. And ordains theſe preſents to be printed, and publiſhed at the Mercat Croſs of <hi>Edinburgh,</hi> and other places needful, that none pretend <gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gnorance.</p>
+            <closer>
+               <signed>
+                  <hi>Al. Gibſon.Cl.</hi> Sti. Concilii.</signed>
+               <lb/>
+GOD ſave the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the <hi>Heir</hi> of <hi>Andrew Anderſon,</hi> Printer to His moſt Sacred Majeſty. <hi>Anno Dom.</hi> 1678.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
